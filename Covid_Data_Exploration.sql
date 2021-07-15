@@ -1,3 +1,10 @@
+/*
+Covid 19 Data Exploration 
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+*/
+
+
 SELECT
 	location, date, total_cases, new_cases, total_deaths, population
 FROM
